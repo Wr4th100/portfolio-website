@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+@font-face {
+  font-family: GothamLight;
+  src: url(./fonts/GothamLight.ttf);
+}
+
+@font-face {
+  font-family: GothamMed;
+  src: url(./fonts/GothamMedium.ttf);
+}
