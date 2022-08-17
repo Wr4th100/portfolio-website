@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.c2f40fa1.css",
+    "main.js": "/portfolio-website/static/js/main.f00a42b1.js",
+    "static/js/232.b6643301.chunk.js": "/portfolio-website/static/js/232.b6643301.chunk.js",
+    "static/media/roshanphoto.png": "/portfolio-website/static/media/roshanphoto.66d8f1c80ba594c814b7.png",
+    "static/media/roshanlogo.png": "/portfolio-website/static/media/roshanlogo.b1cc20bb6155b89661d7.png",
+    "static/media/GothamLight.ttf": "/portfolio-website/static/media/GothamLight.03e7ff609ba3bf798fa4.ttf",
+    "static/media/GothamMedium.ttf": "/portfolio-website/static/media/GothamMedium.0a910c0b9d50be6aa3dc.ttf",
+    "static/media/react-brands.svg": "/portfolio-website/static/media/react-brands.2bdba9fc9a23bc8dc57b0fb80cbe4592.svg",
+    "static/media/phone.svg": "/portfolio-website/static/media/phone.0f3213113f0d1a253452f11a41c67eb0.svg",
+    "static/media/github.svg": "/portfolio-website/static/media/github.47e6ca80883a32c88e5c2e333830a4e0.svg",
+    "static/media/twitter.svg": "/portfolio-website/static/media/twitter.3d564eb835d6e5bc8558f97b3edd3934.svg",
+    "static/media/whatsapp.svg": "/portfolio-website/static/media/whatsapp.79c2b879a81b16016c53e8a825c02c29.svg",
+    "static/media/mail.svg": "/portfolio-website/static/media/mail.63a9b0e178a2fb6d2bc8a97c0ff0e2dd.svg",
+    "static/media/linkedin.svg": "/portfolio-website/static/media/linkedin.e065370881171fd502a4be84cdc9f61a.svg",
+    "static/media/python-brands.svg": "/portfolio-website/static/media/python-brands.b6e968d7ac6157a415ed55a70b5716f7.svg",
+    "static/media/js-brands.svg": "/portfolio-website/static/media/js-brands.a0fb20d28048da82812d025c3b9f1683.svg",
+    "index.html": "/portfolio-website/index.html",
+    "static/media/html5-brands.svg": "/portfolio-website/static/media/html5-brands.598d1520acd4e71e0e48cd48fa1e1d15.svg",
+    "static/media/uikit-brands.svg": "/portfolio-website/static/media/uikit-brands.0825170befa63428890143d7137fe12f.svg",
+    "static/media/css3-brands.svg": "/portfolio-website/static/media/css3-brands.a0646a046a8845b12701361fc3fa0402.svg",
+    "main.c2f40fa1.css.map": "/portfolio-website/static/css/main.c2f40fa1.css.map",
+    "main.f00a42b1.js.map": "/portfolio-website/static/js/main.f00a42b1.js.map",
+    "232.b6643301.chunk.js.map": "/portfolio-website/static/js/232.b6643301.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f40fa1.css",
+    "static/js/main.f00a42b1.js"
+  ]
+}
