@@ -20,7 +20,10 @@ function Projects() {
         <h1 className='projects_Box_Header'> Projects </h1>
         <ul className='projects_Box_List'>
             <li className='projects_Box_Text'> Netflix Clone </li>
-                <p className='projects_Box_Text_item'> A frontend clone of the popular OTT platform, Netflix. </p>
+                <p className='projects_Box_Text_item'> A frontend clone of the popular OTT platform, Netflix. <br/> 
+                  <a href='https://netflix-clone-33cb1.web.app/' target='_blank' rel="noopener noreferrer"> Check it out! </a>
+                </p>
+                
             <li className='projects_Box_Text'> Learning Tracker </li>
                 <p className='projects_Box_Text_item'> A simple Chrome extension for keeping track of resources in the browser. </p>
             <li className='projects_Box_Text'> Personal Website </li>

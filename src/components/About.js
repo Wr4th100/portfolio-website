@@ -5,6 +5,8 @@ import {motion} from 'framer-motion'
 
 function About() {
   return (
+
+    
     <motion.div className='about_Box'
     whileHover={{scale: 1.05}}
     initial={{ opacity: 0, scale: 0.5 }}

@@ -38,6 +38,7 @@ function App() {
             </div>}  
         </Content> : null}
         {widthScreen < 600 ? <Welcome /> : box ? <Welcome /> : null}
+        {widthScreen < 600 ? <div className='footer'> <p> Made with <span role='img' aria-label='heart'>❤️</span> by Roshan </p> </div> : null}
       </Wrapper>
   )}
 
@@ -45,8 +46,8 @@ const Wrapper = styled.div`
   
   position: relative;
   width: 100%;
-  height: 100%;
-
+  height: 100vh;
+  
   .spline-logo {
     position: absolute;
     margin: 0;
